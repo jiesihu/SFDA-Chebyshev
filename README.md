@@ -27,4 +27,4 @@ python adapt_to_target.py --target Domain_target --data-dir /dataset_path --mode
 ```
 
 ## Acknowledgements
-[SFDA-DPL](https://github.com/cchen-cc/SFDA-DPL)
+This repository benefits from the excellent work provided by [SFDA-DPL](https://github.com/cchen-cc/SFDA-DPL). We extend our gratitude for their significant contributions to the field.
