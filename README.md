@@ -19,6 +19,8 @@ pip install -r requirements.txt
 
 ## Download datasets
 
+## Applied on customized dataset
+
 ## Getting Started
 Train the model with data from source domain.
 ```
