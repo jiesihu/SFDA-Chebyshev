@@ -1,7 +1,10 @@
 # SFDA-Chebyshev
 
 ## Introduction
-Pytorch implementation of paper "A Chebyshev Confidence Guided Source-Free Domain Adaptation Framework for Medical Image Segmentation"
+Pytorch implementation of paper "A Chebyshev Confidence Guided Source-Free Domain Adaptation Framework for Medical Image Segmentation". In this paper, we propose a method for evaluating the confidence of pseudo-labels and a corresponding efficient Source-Free Domain Adaptation (SFDA) framework evaluated in medical images.
+<div align="center">
+  <img src="figs/framework.png"/ width="97%"> <br>
+</div>
 
 
 ## Requirements
