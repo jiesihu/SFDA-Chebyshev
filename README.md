@@ -18,8 +18,10 @@ pip install -r requirements.txt
 ```
 
 ## Download datasets
+Preprocessed multisite prostate dataset can be found [here](https://drive.google.com/file/d/13RXF4wfyjRpWkl3Xu14MVf_QP8BPMfVZ/view?usp=share_link).
 
 ## Apply on customized dataset
+Will be updated soon.
 
 ## Getting Started
 Train the model with data from source domain.
