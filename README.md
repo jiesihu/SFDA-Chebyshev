@@ -10,7 +10,7 @@ In this paper, we propose a method for evaluating the confidence of pseudo-label
 
 ## Try the Demo!
 It's very easy to try our demo, all you need is pytorch and numpy installed.  
-We provide you with a plug and play function to generate the Chebyshev confidence map.
+We provide you with a plug and play function to generate the Chebyshev confidence map.  
 See Demo.ipynb.
 
 ## Requirements
